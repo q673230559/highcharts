@@ -4,3 +4,4 @@ target/*
 .settings/*
 stsworkspace/*
 .idea/*
+highcharts.iml
