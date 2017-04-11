@@ -5,3 +5,5 @@ target/*
 stsworkspace/*
 .idea/*
 highcharts.iml
+.idea/
+target/
